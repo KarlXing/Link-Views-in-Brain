@@ -2,8 +2,8 @@
 This repository contains the code for training neural networks to convert views in the work of "Linking Global Top-Down Views to First-Person Views in the Brain".
 
 ## Requirement
-Python 3
-PyTorch >= 1.4
+Python 3  
+PyTorch >= 1.4  
 Numpy  
 
 ## Steps
