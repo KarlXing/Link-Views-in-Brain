@@ -1,5 +1,8 @@
 # Link-Views-in-Brain
-This repository contains the code for training neural networks to convert views in the work of "Linking Global Top-Down Views to First-Person Views in the Brain".
+This repository contains the code for training neural networks to convert views in the work of "Linking Global Top-Down Views to First-Person Views in the Brain".  
+
+[![DOI](https://zenodo.org/badge/542676196.svg)](https://zenodo.org/badge/latestdoi/542676196)
+
 
 ## Requirement
 Python 3  
